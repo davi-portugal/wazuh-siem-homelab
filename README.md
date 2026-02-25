@@ -19,7 +19,12 @@ Docker Compose, Wazuh 4.9, Ubuntu 24.04 ARM64 (UTM), Linux auth logs
   - Basic nmap scan (local)
 
 ## Evidence (Screenshots)
-See the screenshots in the screenshots folder.
+![Endpoints active](screenshots/01-endpoints-active.png)
+![Agent running](screenshots/02-agent-running.png)
+![Security events](screenshots/03-security-events.png)
+![Alert detail](screenshots/04-alert-detail1.png)
+![Alert detail](screenshots/04-alert-detail2.png)
+![Alert detail](screenshots/04-alert-detail3.png)
 1. Endpoint enrolled and Active
 2. Agent service running on Ubuntu
 3. Security events visible in Wazuh
